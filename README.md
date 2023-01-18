@@ -1,1 +1,1 @@
-# ru.javarush.november.cryptoanalizer
+# ru.javarush.romeo.zaytsev.cryptanalyzer
