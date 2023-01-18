@@ -1,0 +1,1 @@
+# ru.javarush.november.cryptoanalizer
